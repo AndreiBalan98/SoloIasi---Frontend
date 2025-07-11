@@ -1,5 +1,5 @@
 const BACKEND_URL = 'http://localhost:3000';
-const UPDATE_INTERVAL = 5000;
+const UPDATE_INTERVAL = 20000;
 
 const map = L.map('map').setView([47.1585, 27.6014], 13); // Centru Iași
 
